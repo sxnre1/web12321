@@ -8,3 +8,4 @@ pytz
 forex-python
 discord-webhook
 python-binance
+randomstring
