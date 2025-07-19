@@ -1,0 +1,5 @@
+AOS 계좌자충 모듈중에 websocket 관련 모듈 설치하실 땐 아래 모듈로 설치하셔야 합니다. 안그러면 아예 안켜지거나 예외치 않은 오류가 발생됩니다.
+
+websocket          0.2.1
+websocket-client   1.3.1
+websockets         14.1

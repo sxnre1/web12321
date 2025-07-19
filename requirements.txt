@@ -1,0 +1,10 @@
+Flask
+requests
+user-agents
+discord.py
+aiohttp
+websocket-client
+pytz
+forex-python
+discord-webhook
+python-binance
