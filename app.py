@@ -5,7 +5,6 @@ from user_agents import parse
 import sqlite3
 import randomstring
 import ipaddress
-from toss import tossim
 import requests
 import discord, os
 from utils import *
